@@ -44,3 +44,13 @@ changelog:
     exclude:
       - "^docs:"
       - "^test:"
+
+brews:
+  - name: go-brew
+    homepage: https://github.com/khuong02/go-brew
+    tap:
+      owner: khuong02
+      name: go-brew
+    commit_author:
+      name: khuong02
+      email: reystay456@gmail.com

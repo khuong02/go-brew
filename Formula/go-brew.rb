@@ -1,4 +1,4 @@
-class Pack < Formula
+class GoBrew < Formula
   desc "A CLI for test brewing formulae"
   homepage "https://github.com/khuong02/go-brew"
   version "0.1.0"
